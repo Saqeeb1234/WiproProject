@@ -1,1 +1,1 @@
-echo "This is a new code from developer"
+echo "This is a fresh code from developer"
